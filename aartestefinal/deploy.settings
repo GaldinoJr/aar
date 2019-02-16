@@ -1,0 +1,8 @@
+siteUrl = https://github.com/GaldinoJr/aar
+gitUrl = https://github.com/GaldinoJr/aar
+version = 0.1.0
+groupId = com.galdino
+licenses = ["Apache-2.0"] // or something else
+id = aar1
+repository = galdino
+name = AndroidBase // actually not used
